@@ -1,0 +1,19 @@
+/*
+Q2. WAP to create file and input the data and reverse the every word from string and stored in file
+
+Output: 
+Input data in file
+Abc mno pqr 
+Output
+Demo.txt
+Cba onm rqp
+*/
+
+import java.util.*;
+import java.oi.*;
+
+public class reverse_String
+{
+   public static void main(String x[])
+   {
+     
